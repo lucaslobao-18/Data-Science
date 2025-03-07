@@ -1,0 +1,12 @@
+Op Aritméticos:
++ - * /
+
+Op Relacionais:
+> < >= <= == != ===
+
+Op Lógicos:
+! && || (and, or, !)
+
+Potência: **
+Raiz: sqrt() (usa a biblioteca cmath)
+Módulo: %

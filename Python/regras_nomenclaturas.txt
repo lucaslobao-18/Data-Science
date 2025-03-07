@@ -1,0 +1,9 @@
+1° Não pode conter espaços
+2° Não pode iniciar com números
+3° Não pode ter caracteres especiais *-/|\~^
+
+Nomes Corretos:
+nomeCorreto
+nome_correto
+Nome1
+Nome_2
