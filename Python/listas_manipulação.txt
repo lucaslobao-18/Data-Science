@@ -1,0 +1,3 @@
+insert(index,"conteudo")  #Adiciona na posição especificada
+remove("conteudo")  #procura o conteudo e remove
+append("conteudo")  #adiciona ao final da lista
