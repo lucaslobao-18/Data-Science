@@ -7,4 +7,5 @@ from pessoa import Pessoa
 # p1.exibir("lucas", 30)
 # p2.exibir("marcos",32)
 
-pessoa = Pessoa("marcos",20)
+p = Pessoa("mario",20)
+print(p.caminhar(5))

@@ -3,10 +3,15 @@ class Pessoa:
     #atributos
     __nome = "Marcio" #os 2 underlines especificam que o atributo só pode ser acessado pela própria classe
     idade = 45
+    passos = 5
 
     #metodos
     def exibir(self,nome,idade):
         print(nome,idade)
+
+    def caminhar(self, passos):
+        self.passos += passos
+        return self.passos
 
     def __init__(self, nome, idade):
         self.nome = nome
