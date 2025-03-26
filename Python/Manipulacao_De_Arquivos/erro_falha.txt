@@ -1,0 +1,6 @@
+# Erro, é acusado pelo computador, gera uma saída
+# Falha, é silenciosa mas surge de um mal funcionamento do código
+
+# Pesquisar os erros no grupo
+# Usar "" torna a pesquisa mais eficiente
+# Posso usar site:urlDoSite para fazer a busca especificamente no site elicitado

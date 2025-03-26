@@ -1,0 +1,11 @@
+GeoJSON é um formato de codificação para estruturação de dados geoespaciais. Pode ser utilizado via softwares específicos para geoprocessamento, ou através de linguagens de programação. Mais informações sobre este formato podem ser encontradas através do endereço eletrônico: http://geojson.org/
+
+KML é uma linguagem baseada em XML e serve para expressar anotações geoespaciais e visualização de conteúdos existentes nessa linguagem como mapas em 2D e navegadores terrestre em 3D. KML é um padrão internacional mantido pelo Open Geospatial Consortium, Inc. (OGC). Pode ser utilizado via softwares específicos para geoprocessamento, através de linguagens de programação, ou através do Google Earth.
+
+SHP (shapefile) é um formato de armazenagem de dados vetoriais da Esri para armazenar a posição, formato e atributos de feições geoespaciais. Esta distribuido em um arquivo *.zip contendo os arquivos .shp, .shx, .dbf e .prj. Pode ser utilizado via softwares específicos para geoprocessamento.
+
+TopoJSON é uma extensão do GeoJSON que codifica a topologia de uma forma que elimina a redundância e permite que as geometrias relacionadas sejam armazenadas de forma eficiente.  Os arquivos são usados ​​para representar recursos topológicos de maneira geométrica simplista
+
+CSV (Valores separados por Vírgula) é um arquivo de texto que armazena dados tabulares (números e texto) em texto simples. O arquivo é uma sequência de caracteres puros, sem qualquer informação escondida que o computador tenha que processar. Pode ser utilizado para armazenamento e transferência de informações entre aplicativos diferentes.
+
+XLS e XLSX são tipos de arquivo do Microsoft Excel adequados para planilhas.
