@@ -1,7 +1,0 @@
-1° Definir o Problema (Qual pergunta eu quero resolver?)
-2° Planejamento (insumos, requisitos, prazos)
-3° Coleta de Dados (Entender de onde veio e como está sendo coletado)
-4° Crítica dos Dados
-5° Apuração dos Dados
-6° Apresentação dos Dados
-7° Análise e interpretação dos dados (Importante entender o significado)
