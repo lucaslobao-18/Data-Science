@@ -1,0 +1,2 @@
+## K-mean
+Ele trabalha com  centróides, pontos médios de cada classe. As observações vão sendo inseridas de acordo com o centróide mais próximo dela. A cada classificação os centróides vão sendo recalculados.
